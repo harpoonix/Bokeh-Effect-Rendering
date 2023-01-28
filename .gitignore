@@ -1,2 +1,4 @@
-bokeh/
-original/
+bokeh/*
+VGG/imagenet-vgg-verydeep-19.mat
+original/*
+Training.zip
