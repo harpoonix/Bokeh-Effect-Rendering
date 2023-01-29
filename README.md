@@ -13,4 +13,17 @@ background, in this implementation of the paper conceptualised by the Andrey Ign
 shallow focus technique directly from the photos produced
 by DSLR cameras.
 
+## Code
 
+The code for the model, data input preprocessing and training the model, can be found as a jupyter notebook [here](./PyNET.ipynb).  
+The summary of the PyNET CNN, built using `tensorflow.keras.Model` functional API, can be found [here](./summary). It shows all the layers in the model, with their input and output dimensions, and number of parameters in each layer. The total number of parameters in PyNET is 48.9M.
+
+### PyNET Architecture
+
+<p align="center">
+	<img src="./architecture_pynet_git.png" alt="PyNET" width = "1000" />
+</p>
+
+## Report
+
+My report with details on the project, its theory and implementation can be found [here](./WiDS_Report.pdf).
