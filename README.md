@@ -27,3 +27,10 @@ The summary of the PyNET CNN, built using `tensorflow.keras.Model` functional AP
 ## Report
 
 My report with details on the project, its theory and implementation can be found [here](./WiDS_Report.pdf).
+
+## Data
+
+You can find the training data with 4694 images (original and its bokeh counterpart) (3.4GB) [here](https://drive.google.com/file/d/1tNf8teMRI8NlWu-h_F4Q7pIG7nchQhfs/view?usp=share_link).
+
+You can download the pretrained VGG-19 Model [here](https://polybox.ethz.ch/index.php/s/7z5bHNg5r5a0g7k).
+
